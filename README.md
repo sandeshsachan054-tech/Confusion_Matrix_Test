@@ -49,7 +49,7 @@ cd Confusion_Matrix_Test
 ```bash
 python -m venv venv
 venv\Scripts\activate
-```bash
+```
 
 .Windows(Powershell):
 ```bash
