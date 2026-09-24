@@ -20,7 +20,7 @@ This application uses **FastAPI** on the backend and **Groq's Llama 3.3-70B** mo
 ##  Tech Stack
 
 - **Backend:** FastAPI, Uvicorn
-- **LLM Engine:** Groq API (`llama-3.3-70b-versatile`)
+- **LLM Engine:** Groq API (`Openai/gpt-oss-120b`)
 - **Data Validation:** Pydantic
 - **Frontend:** Built-in HTML5 / Vanilla JavaScript
 
